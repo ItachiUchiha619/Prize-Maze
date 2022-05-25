@@ -1,0 +1,11 @@
+﻿  Main.cpp
+  Maze.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(161,1): warning C4267:  'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(161,1): warning C4267:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(161,1): warning C4267:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(161,1): warning C4267:             _Ty2=unsigned int
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\utility(161,1): warning C4267:         ]
+H:\Downloads\Maze\Maze\Maze\Maze.cpp(102): message :  see reference to function template instantiation 'std::pair<unsigned int,unsigned int>::pair<unsigned int,unsigned __int64,0>(std::pair<unsigned int,unsigned __int64> &&) noexcept' being compiled
+  Generating Code...
+H:\Downloads\Maze\Maze\Maze\Maze.cpp(102): message :  see reference to function template instantiation 'std::pair<unsigned int,unsigned int>::pair<unsigned int,unsigned __int64,0>(std::pair<unsigned int,unsigned __int64> &&) noexcept' being compiled
+  Maze.vcxproj -> H:\Downloads\Maze\Maze\x64\Debug\Maze.exe
