@@ -26,6 +26,7 @@ x £ xxxxxx xxxxxx xxxxxxxxxxxxxxxxxxx
 xxxxxx xxxxxx £ xxxxxxxxxxxxxx
 xxxxxx £ xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 The Maze.txt file
 
 The rules governing the maze
